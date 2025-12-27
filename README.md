@@ -2,6 +2,8 @@
 
 A modern, fully responsive Tic-Tac-Toe game built with React, featuring a dynamic "Forest & Neon" theme.
 
+**[Play the Live Demo](https://react-tic-tac-68apuerrb-sujoykrs-projects.vercel.app/)**
+
 ## Features
 
 -   **2-Player Local Play:** Play against a friend on the same device.
