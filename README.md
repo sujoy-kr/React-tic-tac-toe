@@ -4,7 +4,7 @@ A modern, fully responsive Tic-Tac-Toe game built with React, featuring a dynami
 
 **[Play the Live Demo](https://react-tic-tac-68apuerrb-sujoykrs-projects.vercel.app/)**
 
-![App Screenshot](docs/app-screenshot.png)
+![App Screenshot](docs/game-screenshot.png)
 
 ## Features
 
